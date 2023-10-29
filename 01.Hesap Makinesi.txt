@@ -1,0 +1,50 @@
+# Kullanıcıya menü gösterilecek
+# Menüde Hesap makinesinin hangi işlemler yapabildiği gösterilecek
+
+# Kullanıcıya hangi işlem seçmek istediği sorulacak
+
+# Kullanıcı Toplama işlemi için + basacak
+# Eğer kullanıcı toplama işlemi seçerse 
+# Kullanıcıdan 1.sayı istencek
+# Kullanıcıdan 2.sayı istencek
+# Kullanıcının girmiş olduğu 1.sayı ve 2.sayı toplanacak
+# Toplanan sonuç ekrana yazdırılacak
+
+# Kullanıcı çıkarma işlemi için - basacak
+# Eğer kullanıcı çıkarma işlemi seçerse 
+# Kullanıcıdan 1.sayı istencek
+# Kullanıcıdan 2.sayı istencek
+# Kullanıcının girmiş olduğu 1.sayı ve 2.sayı çıkartılacak
+# Çıkartılan sonuç ekrana yazdırılacak
+
+# Kullanıcı çarpma işlemi için * basacak
+# Eğer kullanıcı çarpma işlemi seçerse 
+# Kullanıcıdan 1.sayı istencek
+# Kullanıcıdan 2.sayı istencek
+# Kullanıcının girmiş olduğu 1.sayı ve 2.sayı çarpılcak
+# Çarpılan sonuç ekrana yazdırılacak
+
+# Kullanıcı bölme işlemi için / basacak
+# Eğer kullanıcı toplama işlemi seçerse 
+# Kullanıcıdan 1.sayı istencek
+# Kullanıcıdan 2.sayı istencek
+# Kullanıcının girmiş olduğu 1.sayı ve 2.sayı bölünecek
+# Eğer kullanıcı 2.sayıya 0 girer ise tekrar deneyin diyecek ve tekrar işlem seçmesi için menüye gönderilecek
+# Bölünen sonuç ekrana yazdırılacak
+
+# Kullanıcı üssü işlemi için ** basacak
+# Eğer kullanıcı Üssü işlemi seçerse 
+# Kullanıcıdan sayının tabanı  istencek
+# Kullanıcıdan sayının n kuvveti istencek istencek
+# Kullanıcının girmiş olduğu taban sayı ve sayının n kuvveti n kuvveti kadar taban sayı çarpıklcak
+# Çarpılan sonuç ekrana yazdırılacak
+
+# Kullanıcı karekök işlemi için 6 basacak
+# Eğer kullanıcı karekök işlemi seçerse 
+# Kullanıcıdan sayı istencek
+# Kullanıcının girmiş olduğu sayı karekökten çıkarılcak
+# Çıkarılan sonuç ekrana yazdırılacak
+
+# Kullanıcı çıkış yapmak ister ise
+# Kullanıcının "q,Q" bas tuşlarınına basması gerekicek
+# "q,Q" basar ise ekrana "Hesap makinesinde ayrılıyorsunuz" yazısı yazacak
