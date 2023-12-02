@@ -1,4 +1,4 @@
-while  True... : 
+while True : 
  print("--"*20)
  print("Toplama işlemi için + tuşuna basın ")
  print("Çıakrma işlemi için - tuşuna basın ")
